@@ -17,7 +17,7 @@
 - Half of this project was done in python, the other half was completed in R
 
 # 👾 Tech Company Revenue
-- Another one of my very first projects done in python analyzed a small data set from kaggle as part of a class
+- Another one of my very first projects done in python, which analyzed a small data set from kaggle. This was a final assignment in my introduction to python course
 - This was an introduction to data science, but the main focus was to demonstrate proficiency in python scripting
-- We were to manually extract the data and put the columns into rows and lists using key-value pairs and compute statistics without using powerful libraries
+- We were to manually extract the data and put the columns / rows into lists & dictionaries using key-value pairs and compute statistics without using powerful libraries
 - After manually wrangling the data, we then used common libraries (Pandas, Numpy, Matplotlib) to quickly compute the same stats
