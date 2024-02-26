@@ -7,6 +7,7 @@
 - Classification algorithms applied to a data set to predict 4 different mood disorders based on various predictors
 - Decision trees and random forests used
 - sklearn, pandas, numpy, seaborn, matplotlib
+- [click here to view](https://github.com/br3tt2/Data-Science-Projects/blob/main/Mood_Disorder_project.ipynb)
 
 # 🍊🍉🫐 Data Wrangling Final Project Link 🍒🥝🍏 (Sept 2023)
 - This project was uploaded to my Rpubs page
