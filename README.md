@@ -12,8 +12,7 @@
 - This project was uploaded to my Rpubs page
 - Click the link to check it out!
 - Description of project, full analysis and findings are included in the HTML
-
-[Seasonality of Fruit Analysis](https://rpubs.com/br3ttk2/1115531)
+- [Seasonality of Fruit Analysis](https://rpubs.com/br3ttk2/1115531)
 
 # 🍷🍇 Wine Quality Exploratory Data Analysis (Sept 2023)
 - This project contains four separate parts analyzing the classic [wine quality data set](https://archive.ics.uci.edu/dataset/186/wine+quality)
