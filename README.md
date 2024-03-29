@@ -3,6 +3,10 @@
 - Over the course of my studies / career you will be able to see the progression of where I started and how much I've grown since
 - Enjoy 🚀
 
+# 🍎 CNN Apple Image Classifier (in-progress) (March 2024)
+
+
+
 # 🪼 Mood Disorder Classification 🦑 (Feb 2024)
 - Classification algorithms applied to a data set to predict 4 different mood disorders based on various predictors
 - Decision trees and random forests used
