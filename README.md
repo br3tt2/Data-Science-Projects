@@ -3,7 +3,16 @@
 - Over the course of my studies / career you will be able to see the progression of where I started and how much I've grown since
 - Enjoy 🚀
 
+# 🏡 Credit Risk Classification (May 2024)
+- This project leverages logistic regression & XGBoost for predicting whether a user will default on credit payments
+- There is a separate repository for this project with multiple files (links soon)
+- 
+
 # 🍎 CNN Apple Image Classifier (March 2024)
+- Final project for Machine Learning Systems Design from Chip Huyen. This project was completed with the help of others.
+- Full code files are not posted
+- Credit: Laura Neltner, Sam Hinnenkamp, Sarah Solt, Christian Wall, Brett Karsten
+- [CNN apple classifier](https://github.com/br3tt2/Data-Science-Projects/blob/main/Apple_Variety_Classifier.ipynb)
 
 # 🪼 Mood Disorder Classification 🦑 (Feb 2024)
 - Classification algorithms applied to a data set to predict 4 different mood disorders based on various predictors
